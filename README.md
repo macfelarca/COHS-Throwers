@@ -1,1 +1,1 @@
-# COHS-Throwser
+# COHS-Throwers
